@@ -1,1 +1,1 @@
-SCRUM-6 test
+test automation
